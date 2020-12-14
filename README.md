@@ -3,8 +3,7 @@
 ✔This  project is based on AVR microcontroller.
 
 # What can this project do?
-✔  Get and display your body tempurature with pulse to LCD1602. Morever, it can send that tracking data to THINGSPEAK for drawing graph. 
-This really help you for cheking your health 💪🏻💪🏻💪🏻
+✔  Get and display your body tempurature with pulse to LCD1602. Morever, it can send that tracking data to THINGSPEAK for drawing graph. This really help you for cheking your health 💪🏻💪🏻💪🏻
 ✔  Are you in quaratine😷? Remember to track your location with our project. So far from home🏠? A message with location to your family or friend will announce them! 📢📢📢
 
 #  What items need to be prepared for this project?
