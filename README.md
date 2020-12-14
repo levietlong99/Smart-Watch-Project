@@ -17,10 +17,10 @@
 ◾  Some capacitor for removal noise from power supply.  
 ◾  Some resistor, and a large amount of wires, of course!!!  
 
-# What software need to be prepared for this project?  
+# What softwares need to be prepared for this project?  
 ◾  An ide for Atmel Microchip, i used Atmel Studio for this project.  
 ◾  An upload software. In my cases, i used progisp.  
 ◾  May be some simulation will help you alot, Proteus was my choice.  
 
 👉🏻 For more information, please contact with my email: vietlongle2000@gmail.com.  
-Hope you get fun with this  project 😉.  
+Hope you get fun with this  project and being healthy
